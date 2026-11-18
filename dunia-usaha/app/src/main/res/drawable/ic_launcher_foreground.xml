@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Market stall poles -->
+    <path
+        android:fillColor="#5D4037"
+        android:pathData="M31,42 L35,42 L35,76 L31,76 Z" />
+    <path
+        android:fillColor="#5D4037"
+        android:pathData="M73,42 L77,42 L77,76 L73,76 Z" />
+    <!-- Counter base -->
+    <path
+        android:fillColor="#FFF8E1"
+        android:strokeColor="#1E293B"
+        android:strokeWidth="2.2"
+        android:pathData="M29,58 L79,58 L79,76 C79,77.7 77.7,79 76,79 L32,79 C30.3,79 29,77.7 29,76 Z" />
+    <!-- Counter warm stripe -->
+    <path
+        android:fillColor="#F06292"
+        android:pathData="M30.5,65 L77.5,65 L77.5,72 L30.5,72 Z" />
+    <!-- Awning canopy base -->
+    <path
+        android:fillColor="#FFFDF7"
+        android:strokeColor="#1E293B"
+        android:strokeWidth="2.2"
+        android:pathData="M25,44 L31,30 L77,30 L83,44 Z" />
+    <!-- Awning coral stripes -->
+    <path
+        android:fillColor="#F06292"
+        android:pathData="M31,30 L39,30 L36,44 L25,44 Z" />
+    <path
+        android:fillColor="#F06292"
+        android:pathData="M48,30 L60,30 L60,44 L48,44 Z" />
+    <path
+        android:fillColor="#F06292"
+        android:pathData="M69,30 L77,30 L83,44 L72,44 Z" />
+    <!-- Scalloped awning edge -->
+    <path
+        android:fillColor="#F06292"
+        android:strokeColor="#1E293B"
+        android:strokeWidth="1.6"
+        android:pathData="M25,44 C25,48.5 34.5,48.5 34.5,44 C34.5,48.5 44,48.5 44,44 C44,48.5 54,48.5 54,44 C54,48.5 64,48.5 64,44 C64,48.5 73.5,48.5 73.5,44 C73.5,48.5 83,48.5 83,44 Z" />
+    <!-- Central golden star coin badge -->
+    <path
+        android:fillColor="#FFE082"
+        android:strokeColor="#1E293B"
+        android:strokeWidth="2"
+        android:pathData="M54,53 L56.8,59 L63.3,59.8 L58.5,64.2 L59.8,70.7 L54,67.5 L48.2,70.7 L49.5,64.2 L44.7,59.8 L51.2,59 Z" />
+</vector>
