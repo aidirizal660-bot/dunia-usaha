@@ -1,0 +1,6 @@
+{
+  "name": "Dunia Usaha",
+  "description": "Media pembelajaran interaktif wirausaha anak SD kelas IV dengan tampilan desktop, animasi halus, permainan edukatif, dan evaluasi kuis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
